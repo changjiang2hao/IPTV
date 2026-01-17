@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://vip.erw.cc/all.xml.gz"
+#EXTM3U x-tvg-url="http://e.erw.cc/all.xml.gz"
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" catchup="default" catchup-source="rtsp://172.23.2.138/PLTV/101/224/3221226744/10000100000000060000000001351427_0.smil?playseek={utc:YmdHMS}-{utcend:YmdHMS}" tvg-logo="https://upload.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
 rtp://235.254.199.51:7980/?fcc=172.23.2.138:8027
@@ -64,11 +64,11 @@ rtp://235.254.199.176:7980/?fcc=172.23.2.138:8027
 rtp://235.254.199.73:7980/?fcc=172.23.2.138:8027
 #EXTINF:-1 tvg-id="湖南卫视" catchup="default" catchup-source="rtsp://172.23.2.138/PLTV/101/224/3221226767/10000100000000060000000001351425_0.smil?playseek={utc:YmdHMS}-{utcend:YmdHMS}" tvg-name="湖南卫视" tvg-logo="https://upload.112114.xyz/logo/湖南卫视.png" group-title="高清",湖南卫视
 rtp://235.254.199.62:7980/?fcc=172.23.2.138:8027
-#EXTINF:-1 tvg-id="甘肃卫视" catchup-source="rtsp://172.23.2.138/PLTV/101/224/3221228015/10000100000000060000000082628478_0.smil?playseek={utc:YmdHMS}-{utcend:YmdHMS}" tvg-name="甘肃卫视" tvg-logo="https://upload.112114.xyz/logo/甘肃卫视.png" group-title="高清",甘肃卫视
+#EXTINF:-1 tvg-id="甘肃卫视" catchup="default" catchup-source="rtsp://172.23.2.138/PLTV/101/224/3221228015/10000100000000060000000082628478_0.smil?playseek={utc:YmdHMS}-{utcend:YmdHMS}" tvg-name="甘肃卫视" tvg-logo="https://upload.112114.xyz/logo/甘肃卫视.png" group-title="高清",甘肃卫视
 rtp://235.254.197.176:7980/?fcc=172.23.2.138:8027
-#EXTINF:-1 tvg-id="江苏卫视" catchup-source="rtsp://172.23.2.138/PLTV/101/224/3221226761/10000100000000060000000001351422_0.smil?playseek={utc:YmdHMS}-{utcend:YmdHMS}" tvg-name="江苏卫视" tvg-logo="https://upload.112114.xyz/logo/江苏卫视.png" group-title="高清",江苏卫视
+#EXTINF:-1 tvg-id="江苏卫视" catchup="default" catchup-source="rtsp://172.23.2.138/PLTV/101/224/3221226761/10000100000000060000000001351422_0.smil?playseek={utc:YmdHMS}-{utcend:YmdHMS}" tvg-name="江苏卫视" tvg-logo="https://upload.112114.xyz/logo/江苏卫视.png" group-title="高清",江苏卫视
 rtp://235.254.199.64:7980/?fcc=172.23.2.138:8027
-#EXTINF:-1 tvg-id="浙江卫视" catchup-source="rtsp://172.23.2.138/PLTV/101/224/3221226759/10000100000000060000000001351421_0.smil?playseek={utc:YmdHMS}-{utcend:YmdHMS}" tvg-name="浙江卫视" tvg-logo="https://upload.112114.xyz/logo/浙江卫视.png" group-title="高清",浙江卫视
+#EXTINF:-1 tvg-id="浙江卫视" catchup="default" catchup-source="rtsp://172.23.2.138/PLTV/101/224/3221226759/10000100000000060000000001351421_0.smil?playseek={utc:YmdHMS}-{utcend:YmdHMS}" tvg-name="浙江卫视" tvg-logo="https://upload.112114.xyz/logo/浙江卫视.png" group-title="高清",浙江卫视
 rtp://235.254.199.63:7980/?fcc=172.23.2.138:8027
 #EXTINF:-1 tvg-id="北京卫视" catchup="default" catchup-source="rtsp://172.23.2.138/PLTV/101/224/3221226769/10000100000000060000000001351426_0.smil?playseek={utc:YmdHMS}-{utcend:YmdHMS}" tvg-name="北京卫视" tvg-logo="https://upload.112114.xyz/logo/北京卫视.png" group-title="高清",北京卫视
 rtp://235.254.199.66:7980/?fcc=172.23.2.138:8027
@@ -118,6 +118,11 @@ rtp://235.254.199.247:7980/?fcc=172.23.2.138:8027
 rtp://235.254.199.248:7980/?fcc=172.23.2.138:8027
 #EXTINF:-1 tvg-id="中国教育1台" catchup="default" catchup-source="rtsp://172.23.2.138/PLTV/101/224/3221227945/10000100000000060000000013974863_0.smil?playseek={utc:YmdHMS}-{utcend:YmdHMS}" tvg-name="中国教育1台" tvg-logo="https://upload.112114.xyz/logo/CETV1.png" group-title="高清",CETV-1
 rtp://235.254.199.196:7980/?fcc=172.23.2.138:8027
+
+
+
+
+
 #EXTINF:-1 tvg-id="IPTV3+" catchup="default" catchup-source="rtsp://172.23.2.138/PLTV/101/224/3221226823/10000100000000060000000001358767_0.smil?playseek={utc:YmdHMS}-{utcend:YmdHMS}" tvg-name="IPTV3+" tvg-logo="https://upload.112114.xyz/logo/IPTV3+.png" group-title="高清",IPTV3+
 rtp://235.254.199.13:7980/?fcc=172.23.2.138:8027
 #EXTINF:-1 tvg-id="IPTV5+" catchup="default" catchup-source="rtsp://172.23.2.138/PLTV/101/224/3221226808/10000100000000060000000001358769_0.smil?playseek={utc:YmdHMS}-{utcend:YmdHMS}" tvg-name="IPTV5+" tvg-logo="https://upload.112114.xyz/logo/IPTV5+.png" group-title="高清",IPTV5+
@@ -326,5 +331,6 @@ rtp://239.253.64.248:7980/?fcc=172.23.2.138:8027
 rtp://239.253.64.249:7980/?fcc=172.23.2.138:8027
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="空频道",未知频道255
 rtp://239.253.64.255:7980/?fcc=172.23.2.138:8027
+
 
 
