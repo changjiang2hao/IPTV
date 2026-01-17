@@ -1,3 +1,5 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/kuke31/xmlgz/main/all.xml.gz"
+
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" catchup="default" catchup-source="rtsp://172.23.2.138/PLTV/101/224/3221226744/10000100000000060000000001351427_0.smil?playseek={utc:YmdHMS}-{utcend:YmdHMS}" tvg-logo="https://upload.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
 rtp://235.254.199.51:7980/?fcc=172.23.2.138:8027
 #EXTINF:-1 tvg-id="CCTV2" catchup="default" catchup-source="rtsp://172.23.2.138/PLTV/101/224/3221226815/10000100000000060000000001357827_0.smil?playseek={utc:YmdHMS}-{utcend:YmdHMS}" tvg-name="CCTV2" tvg-logo="https://upload.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2
@@ -324,3 +326,4 @@ rtp://239.253.64.248:7980/?fcc=172.23.2.138:8027
 rtp://239.253.64.249:7980/?fcc=172.23.2.138:8027
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="空频道",未知频道255
 rtp://239.253.64.255:7980/?fcc=172.23.2.138:8027
+
